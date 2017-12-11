@@ -1,7 +1,8 @@
 Install Ubuntu 16.04
-Install ROS Kinetic
-Install Gazebo
+Install ROS Kinetic 
+Install Gazebo 8.1
 Install OpenAI Gym
 Install Gym-Gazebo
+Install Python 3.5
 Run the python file Qlearn.py to begin training
 Run the display_plot.py file to display the plot.
